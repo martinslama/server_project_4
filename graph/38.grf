@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Graph author="slamam" created="Tue Nov 05 17:05:27 CET 2013" guiVersion="0.0.0.devel" id="1383667556193" licenseType="Commercial" modified="Tue Nov 05 17:13:51 CET 2013" modifiedBy="slamam" name="38" revision="1.5" showComponentDetails="true">
+<Graph author="slamam" created="Tue Nov 05 17:05:27 CET 2013" guiVersion="0.0.0.devel" id="1383667556193" licenseType="Commercial" modified="Tue Nov 05 17:14:27 CET 2013" modifiedBy="slamam" name="38" revision="1.6" showComponentDetails="true">
 <Global>
 <GraphParameters>
 <GraphParameterFile fileURL="workspace.prm"/>
 </GraphParameters>
-<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="100" id="Note0" textColorB="0" textColorG="0" textColorR="0" textFontSize="8" title="New note" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="10" width="100" x="218" y="31"/>
+<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="100" id="Note0" textColorB="0" textColorG="0" textColorR="0" textFontSize="8" title="New note" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="10" width="100" x="67" y="37"/>
 <Dictionary/>
 </Global>
 </Graph>
