@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="slamam" created="Thu Nov 07 10:14:39 CET 2013" guiVersion="0.0.0.devel" id="1383815808261" licenseType="Commercial" modified="Thu Nov 07 10:18:03 CET 2013" modifiedBy="slamam" name="neco" revision="1.1" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Note alignment="1" backgroundColorB="225" backgroundColorG="255" backgroundColorR="255" enabled="true" folded="false" height="100" id="Note0" textColorB="0" textColorG="0" textColorR="0" textFontSize="8" title="New note" titleColorB="0" titleColorG="0" titleColorR="0" titleFontSize="10" width="100" x="135" y="124"/>
+<Dictionary/>
+</Global>
+</Graph>
